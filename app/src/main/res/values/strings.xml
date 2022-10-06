@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBookMedia</string>
+    <string name="book_name">Book Name</string>
+    <string name="author_name">Author Name</string>
+    <string name="explanation">Explanation</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+</resources>
